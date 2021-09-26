@@ -1,5 +1,5 @@
 Add-Type –AssemblyName System.IdentityModel
-New-Object System.IdentityModel.Tokens.KerberosRequestorSecurityToken –ArgumentList ‘HTTP/ifrs9-test-nw.int.rhb’
+New-Object System.IdentityModel.Tokens.KerberosRequestorSecurityToken –ArgumentList ‘’
 
 
 #Weryfikacja kont podanych na AS-Rep Roasting tj. otrzymanie ticketu
