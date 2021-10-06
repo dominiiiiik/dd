@@ -1,1 +1,1 @@
-mkdir c:\nowykatalog
+del c:\nowykatalog
