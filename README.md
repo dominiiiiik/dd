@@ -1,1 +1,1 @@
-calc.exe
+mkdir c:\nowykatalog
